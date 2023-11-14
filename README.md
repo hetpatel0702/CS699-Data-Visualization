@@ -3,7 +3,7 @@
 Authors: Het Patel, Abhishek Shinde
 
 The dataset contains information regarding greenhouse
-gases and co2 emissions from the year 1750 to 2021, along
+gases and CO2 emissions from the year 1750 to 2021, along
 with relevant demographic and economic factors like
 population and GDP of the different countries.
 It contains the data of 278 countries across the world
